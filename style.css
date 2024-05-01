@@ -1,0 +1,16 @@
+body { 
+      text-align: center; 
+      background-color: #3c9f44; 
+      font-family: Arial, sans-serif;
+      margin: 50px;
+      color: white;
+    }
+
+li { 
+      list-style-type: none; 
+      padding: 10px 5% 10px 0px; 
+    }
+
+a {
+      color: white;
+}
